@@ -1,18 +1,25 @@
 
 **Mancilla Rojano Jetsi Viridiana**
+
 *Avance 1. Proyecto final* 
 
-Para el desarrollo del proyecto final, trabajaré con datos que forman parte de mi proyecto de maestría, el cual tiene por título:**Tipificación molecular de aislados de Acinetobacter baumannii**.
+
+Para el desarrollo del proyecto final, trabajaré con datos que forman parte de mi proyecto de maestría, el cual tiene por título:**Tipificación molecular de aislados de *Acinetobacter baumannii**.
+
 
 ### Descripción del proyecto :
 
 *Acinetobacter baumanni* es una bacteria Gram negativa asociada a infecciones nosocomiales, principalmente, neumonía, infecciones en torrente sanguíneo, meningitis e infecciones de vías urinarias. *Acinetobacter baumannii* ha tomado relevancia clínica debido a que presenta resistencia a diferentes grupos de antibióticos, principalmente a carbapenémicos, por lo que las opciones terapéuticas se han reducido; aunado a esto, tiene la capacidad de sobrevivir en ambientes con baja disponibilidad de agua, lo que contribuye a su persistencia en entornos hospitalarios. Debido a lo anterior es importante implementar métodos que permitan una identificación más certera y por tanto una mejor vigilancia y control de brotes causados por esta bacteria; uno de los métodos de tipificación más utilizados es el MLST  (Multilocus Sequence Typing) , el cual se basa en la secuenciación de fragmentos de 7 genes conservados o *housekeeping*, las variaciones en las secuencias de estos genes permiten diferenciar distintas cepas de la misma especie.
 
+
 Basándome en lo anterior la opción de trabajo final que realizaría es: **Análisis de datos propios**.
+
 
 #### ¿Qué tipos de análisis realizaré?
 
+
 Cuento con una colección de 69 cepas, aisladas de pacientes del Hospital Infantil de México Federico Gómez; para llevar a cabo el método de MLST, seleccioné 7 genes constitutivos y a través de la técnica de PCR amplifiqúe dichos genes, los productos fueron purificados y secuenciados mediante secuenciación masiva , utilizando la plataforma Illumina. Así mismo, de mi colección de cepas, seleccioné un aislado con base en los resultados que obtuve a través de otras técnicas de tipificación molecular y se mandó a secuenciar el genoma, utilizando la plataforma de PacBio e Illumina.  Con base en lo anterior, los análisis que realizaré serán **ensamblado de novo**.
+
 
 #### Ensamblado de novo.
 
