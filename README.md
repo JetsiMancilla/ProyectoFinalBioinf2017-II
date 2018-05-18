@@ -1,4 +1,4 @@
-# ProyectoFinalBioinf2017-II
+# ProyectoFinalBioinf2018-II
 
 En este repositorio se encuentran los datos necesarios para llevar a cabo un análisis de ensamblado de novo de secuencias de siete genes constitutivos de 69 cepas bacterianas. Este repositorio contiene las siguientes carpetas: 
 
