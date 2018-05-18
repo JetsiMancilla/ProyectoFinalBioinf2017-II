@@ -13,5 +13,9 @@ Asi mismo, realicé un alineamiento de los iniciadores con las secuencias de cad
 Esto es lo que he analizado, mi computadora murió y se encontraba en reparación ,por lo que me he atrasado con el ensamble de mis secuencias!!!!.Además, quiero mencionar que yo estaba considerando realizar también el ensamble del genoma de una de las cepas que utilicé, pero aún no nos proporcionar estos datos. 
 
 
+README:
+
+https://github.com/JetsiMancilla/ProyectoFinalBioinf2017-II/blob/master/README.md
+
 
 
