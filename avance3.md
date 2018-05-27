@@ -3,7 +3,7 @@
 
 Proyecto final
 
-Para el desarrollo del proyecto final, trabajé con datos que forman parte de mi proyecto de maestría, el cual tiene por título:*Tipificación molecular de aislados de Acinetobacter baumannii.
+Para el desarrollo del proyecto final, trabajé con datos que forman parte de mi proyecto de maestría, el cual tiene por título: *Tipificación molecular de aislados de Acinetobacter baumannii*
 
 Descripción del proyecto :
 Acinetobacter baumanni es una bacteria Gram negativa asociada a infecciones nosocomiales, principalmente, neumonía, infecciones en torrente sanguíneo, meningitis e infecciones de vías urinarias. Acinetobacter baumannii ha tomado relevancia clínica debido a que presenta resistencia a diferentes grupos de antibióticos, principalmente a carbapenémicos, por lo que las opciones terapéuticas se han reducido; aunado a esto, tiene la capacidad de sobrevivir en ambientes con baja disponibilidad de agua, lo que contribuye a su persistencia en entornos hospitalarios. Debido a lo anterior es importante implementar métodos que permitan una identificación más certera y por tanto una mejor vigilancia y control de brotes causados por esta bacteria; uno de los métodos de tipificación más utilizados es el MLST (Multilocus Sequence Typing) , el cual se basa en la secuenciación de fragmentos de 7 genes conservados o housekeeping, las variaciones en las secuencias de estos genes permiten diferenciar distintas cepas de la misma especie.
